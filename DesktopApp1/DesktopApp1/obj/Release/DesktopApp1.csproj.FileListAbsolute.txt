@@ -1,0 +1,9 @@
+C:\Users\Hardc\source\repos\DesktopApp1\DesktopApp1\bin\Release\DesktopApp1.exe.config
+C:\Users\Hardc\source\repos\DesktopApp1\DesktopApp1\bin\Release\DesktopApp1.exe
+C:\Users\Hardc\source\repos\DesktopApp1\DesktopApp1\bin\Release\DesktopApp1.pdb
+C:\Users\Hardc\source\repos\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.Form1.resources
+C:\Users\Hardc\source\repos\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.Properties.Resources.resources
+C:\Users\Hardc\source\repos\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.csproj.GenerateResource.cache
+C:\Users\Hardc\source\repos\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hardc\source\repos\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.exe
+C:\Users\Hardc\source\repos\DesktopApp1\DesktopApp1\obj\Release\DesktopApp1.pdb
